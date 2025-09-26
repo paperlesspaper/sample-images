@@ -5,7 +5,7 @@ They are provided as reference material for testing, prototyping, and demonstrat
 
 ## Contents
 
-- Example photos (taken by @utzel-butzel)
+- Example photos (taken by [utzel-butzel](https://github.com/Utzel-Butzel)
 - Screenshots of illustrations created by the [integrations](https://paperlesspaper.de/en/integrations)
 - Test images used during development
 
